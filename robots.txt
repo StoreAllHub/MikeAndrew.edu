@@ -1,4 +1,4 @@
 User-agent: *
-                            Allow: /
-
-                            Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap.xml
+Allow: /
+Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap.xml
+Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap2.xml
