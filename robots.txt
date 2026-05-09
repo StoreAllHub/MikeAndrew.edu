@@ -2,3 +2,8 @@ User-agent: *
 Allow: /
 Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap.xml
 Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap2.xml
+Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap3.xml
+Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap4.xml
+Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap5.xml
+Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap6.xml
+Sitemap: https://storeallhub.github.io/MikeAndrew.edu/sitemap7.xml
